@@ -13,10 +13,6 @@ body{
     display: flex;
     flex-wrap: wrap;
 }
-.divEnfant {
-    /* transition: 0.2s; */
-    
-}
 
 .divEnfant2{
     transition: 0.2s;
