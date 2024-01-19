@@ -1,0 +1,23 @@
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.container{
+    width: 500px;
+    aspect-ratio: 1/1;
+    display: flex;
+    flex-wrap: wrap;
+}
+.divEnfant {
+    /* transition: 0.2s; */
+    
+}
+
+.divEnfant2{
+    transition: 0.2s;
+}
